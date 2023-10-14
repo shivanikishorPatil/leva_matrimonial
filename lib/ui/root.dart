@@ -51,8 +51,7 @@ class Root extends ConsumerWidget {
           }
         },
         error: (e, s) {
-          print(e);
-        },
+          print(e); },
         loading: () => Loading());
     // onborading seen check condition
     return !seen
