@@ -1,0 +1,1 @@
+enum MaritalStatus { notmarried, divorced }
